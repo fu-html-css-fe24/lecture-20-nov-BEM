@@ -1,0 +1,24 @@
+.grid-section {
+
+
+    /* Footer-skit */
+    /* Detta sättet att skriva på har inte kommit till vanilla CSS ännu */
+    &__footer-title {
+    
+    }
+
+    &__menu {
+
+        &__menu-title {
+
+        }
+
+        &__menu-list {
+
+
+            &-menu-item {
+
+            }
+        }
+    }
+}
